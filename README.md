@@ -39,3 +39,18 @@ objetos que usaremos em nosso código.
   Usamos Css - Cascading Style Sheets para estilizar as marcações de hypertexto
   Usamos JavaScript - Para fazer efeitos, registros e potencializar recursos da web
   
+#### Aqui um exemplo de arquivo simples de CSS, onde definimos que, todo vez que a tag h5 for chamada no html, receberá as seguintes definições. 
+  
+h5.colorVermelho {
+font-family: Arial;
+color: red;
+font-size: 30px;
+text-align: center;
+padding: 10px;
+background-color: Black;
+}
+
+div.df {
+content: none;
+
+}
