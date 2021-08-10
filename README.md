@@ -33,4 +33,9 @@ Em seguida iniciamos a importação dos recursos necessários para nosso projeto
   
 Neste endereço, temos os códigos corretos dos recursos necessários para a construção, estilização e formatação dos
 objetos que usaremos em nosso código.
+
+  
+  Usamos HTML - HyperText Markup Language, como diz o nome, para marcar textos
+  Usamos Css - Cascading Style Sheets para estilizar as marcações de hypertexto
+  Usamos JavaScript - Para fazer efeitos, registros e potencializar recursos da web
   
