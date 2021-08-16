@@ -1,5 +1,5 @@
 #Html-e-Css
-Conhecimentos de HTML e CSS obtidos através de livros e sites.
+Conhecimentos de HTML e CSS obtidos através de livros e sites. + Bootstrap
 
 ###### Bootstrap é um framework de front-end que oferece fragmentos de códigos que seguem
 ###### as melhores práticas para o desenvolvimento de código.
